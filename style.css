@@ -1,0 +1,20 @@
+h1 {
+    color: whitesmoke;
+    background-color: black;
+    font-weight:bold; font-family: 'Courier New', Courier, monospace;
+}
+.corAzul    {
+    color:#00ccff;
+}
+h2  {
+    color: whitesmoke;
+    background-color: rebeccapurple;  
+    text-align: center;
+    font-style: italic; font-family:Georgia, 'Times New Roman', Times, serif; font-weight: lighter;
+}
+h3  {
+    color: rebeccapurple;
+    background-color: #00ccff; 
+    text-align: right; text-decoration: underline;
+    font-family: serif; 
+}
